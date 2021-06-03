@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/blog-react/static/css/main.fcd9cf9f.chunk.css",
+    "main.js": "/blog-react/static/js/main.97b4b760.chunk.js",
+    "main.js.map": "/blog-react/static/js/main.97b4b760.chunk.js.map",
+    "runtime-main.js": "/blog-react/static/js/runtime-main.8ccf61c0.js",
+    "runtime-main.js.map": "/blog-react/static/js/runtime-main.8ccf61c0.js.map",
+    "static/js/2.304f8604.chunk.js": "/blog-react/static/js/2.304f8604.chunk.js",
+    "static/js/2.304f8604.chunk.js.map": "/blog-react/static/js/2.304f8604.chunk.js.map",
+    "static/js/3.b4cfed1a.chunk.js": "/blog-react/static/js/3.b4cfed1a.chunk.js",
+    "static/js/3.b4cfed1a.chunk.js.map": "/blog-react/static/js/3.b4cfed1a.chunk.js.map",
+    "index.html": "/blog-react/index.html",
+    "static/css/main.fcd9cf9f.chunk.css.map": "/blog-react/static/css/main.fcd9cf9f.chunk.css.map",
+    "static/js/2.304f8604.chunk.js.LICENSE.txt": "/blog-react/static/js/2.304f8604.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/blog-react/static/media/Pile-of-books-1.5e46fc37.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ccf61c0.js",
+    "static/js/2.304f8604.chunk.js",
+    "static/css/main.fcd9cf9f.chunk.css",
+    "static/js/main.97b4b760.chunk.js"
+  ]
+}
